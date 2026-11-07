@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi, I'm Alan 👋
 
-<!--
-**Alan-Hussein115/Alan-Hussein115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Insight Lead with an MSc in Behavioural Economics, working in Fraud Strategy, wanting to build my skills in Data Science and Modelling. I care about adding value and answering the 'so what?' question.
 
-Here are some ideas to get you started:
+## What I do
+- Lead a small team of Insight Analysts.
+- Turn data into insights and recommendations that stakeholders can act on
+- Design and evaluate experiments (treatment vs control)
+- Work with large transactional datasets in SQL, SAS, and Impala
+- Build and review scheduled report in SAS and SMC
+- Build workflow automations (Power Automate, Power Apps)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+| Project | Theme | Status |
+|---|---|
+| [fraud-decision-policy](https://github.com/Alan-Hussein115/fraud-decision-policy) | Turning fraud model scores into a net-value threshold and review-capacity recommendation | In Progress |
+| parham-prescribing-variation _(link coming)_ | Where to act on NHS prescribing variation, with a prioritised recommendation | Planned |
+
+## Toolkit
+**Daily:** SQL, SAS, Impala/Hue, GitLab, Excel, JIRA, Claude
+**Improving:** Python (pandas, scikit-learn)
+**Qualifications:** MSC Behavioural Economics, BSc Economics, DataCamp Data Scienctist Certification
+
+## How I work
+Every project here starts with a decision to be made and ends with a recommendation, the assumptions behind it, and what could make it wrong.
+
+📍 Manchester, UK
+[LinkedIn](www.linkedin.com/in/alan-hussein)
